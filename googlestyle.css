@@ -1,0 +1,30 @@
+a{
+  display: block;
+  text-align: right;
+  color: hotpink;
+}
+
+div{
+  padding: 80px;
+  text-align: center;
+}
+
+
+.googlebanner{
+  letter-spacing: -12px;
+  font-weight: arial;
+  font-weight: bold;
+  font-size: 150px;
+}
+
+
+.searchbox{
+  margin: 10px;
+  border-color: silver;
+  border-width: 2px;
+}
+
+.searchbox:hover{
+  border-color: gold;
+  border-width: 4px;
+}
